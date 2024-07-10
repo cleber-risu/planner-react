@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um planejador de viajens feito inteiramente com React no evento da NLW da RocketSeat!
+Um planejador de viagens feito inteiramente com React no evento da NLW da RocketSeat!
 
 ---
 
